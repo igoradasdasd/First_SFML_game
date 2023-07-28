@@ -1,0 +1,22 @@
+﻿  Engine.cpp
+D:\GItHub\C++\First_SFML_game\First_SFML_game\First_SFML_game\Engine.cpp(6,44): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\GItHub\C++\First_SFML_game\First_SFML_game\First_SFML_game\Engine.cpp(7,44): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\GItHub\C++\First_SFML_game\First_SFML_game\First_SFML_game\Engine.cpp(9,52): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\GItHub\C++\First_SFML_game\First_SFML_game\First_SFML_game\Engine.cpp(9,38): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  First_SFML_game.vcxproj -> D:\GItHub\C++\First_SFML_game\First_SFML_game\x64\Debug\First_SFML_game.exe
